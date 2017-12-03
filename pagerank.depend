@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1512286027 source:/home/w2hw/Desktop/pagerank/pagerank.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
